@@ -28,6 +28,12 @@ button a{
 	color: white;
 	font-family: Courier New;
 }
+
+button:hover {
+    background-color: black; 
+    color: white;
+}
+
 #footer{
 	position : absolute;
 	bottom : 0;
