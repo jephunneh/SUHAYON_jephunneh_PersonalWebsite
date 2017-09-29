@@ -39,3 +39,12 @@ li a{
 	font-family: Courier New;
 	font-size: 20px;
 }
+#pic1 img{
+	margin-bottom: 20px 0px 0px;
+}
+table{
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+	border-width: 0px;
+}
