@@ -39,7 +39,42 @@ li a{
 	font-family: Courier New;
 	font-size: 20px;
 }
-#center img{
-	padding: 20px;
+h1{
+	font-family: Courier New;
+	color: white;
+	font-size: 20px;
+}
+table{
+    marging-left: 350px;
+    width: 50%;
+}
+tr td{
+    font-family: Helvetica LT Std Light;
+    color: black;
+    width:70%;	
+}
+
+tr th{
+    font-family: Gotham Regular;
+    color: black;
+    margin-left: 200px;
+    width:70%;	
+    text-align: left;
+}
+button {
+    background:  transparent;
+    border: 5px solid #ffffff;
+    width: 800px;
+    height: 130px;
+    font-family: Courier New;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    letter-spacing: 8px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
 
