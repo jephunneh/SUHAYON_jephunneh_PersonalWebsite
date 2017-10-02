@@ -48,3 +48,13 @@ table{
 	padding-right: 50px;
 	border-width: 0px;
 }
+img.matigol{
+	width: 500px;
+	height: 500px;
+	background: url('jeph/matigol.png');
+}
+img.matigol:hover{
+	width: 400px;
+	height: 400px;
+	background: url('jeph/matigolhover.png');
+}

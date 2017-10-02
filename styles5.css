@@ -39,21 +39,11 @@ li a{
 	font-family: Courier New;
 	font-size: 20px;
 }
+}
 #contact p{
 	color: white;
 	font-size: 50px;
 	font-family:Courier New;
 	padding-left: 550px;
 }
-#fb img{
-	padding-left: 240px;
-}
-#twitter img{
-	padding-left: 240px;
-}
-#instagram img{
-	padding-left: 240px;
-}
-#gmail img{
-	padding-left: 240px;
-}
+
